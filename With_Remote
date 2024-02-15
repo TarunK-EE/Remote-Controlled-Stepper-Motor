@@ -1,5 +1,5 @@
-#include "Stepper.h"
-#include "IRremote.h"
+#include "Stepper.h" //https://www.arduino.cc/reference/en/libraries/stepper/
+#include "IRremote.h" //https://github.com/z3t0/Arduino-IRremote.git
 
 /*----- Variables, Pins -----*/
 #define STEPS  32   // Number of steps per revolution of Internal shaft
